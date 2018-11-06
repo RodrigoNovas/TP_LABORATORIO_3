@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1541466747 source:c:\users\alumno\desktop\tp_laboratorio_3\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+	"LinkedList.h"
+	"Employee.h"
+	"menu.h"
+	"Controller.h"
+
+1541466217 c:\users\alumno\desktop\tp_laboratorio_3\parser.h
+	"LinkedList.h"
+	"Employee.h"
+
+1541466366 c:\users\alumno\desktop\tp_laboratorio_3\linkedlist.h
+
+1541466153 c:\users\alumno\desktop\tp_laboratorio_3\employee.h
+
+1541466153 c:\users\alumno\desktop\tp_laboratorio_3\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1541465937 c:\users\alumno\desktop\tp_laboratorio_3\controller.h
+
+1541465976 source:c:\users\alumno\desktop\tp_laboratorio_3\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+
+1541466366 source:c:\users\alumno\desktop\tp_laboratorio_3\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1541466557 source:c:\users\alumno\desktop\tp_laboratorio_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"menu.h"
+
+1541466153 source:c:\users\alumno\desktop\tp_laboratorio_3\menu.c
+	"menu.h"
+
+1541466217 source:c:\users\alumno\desktop\tp_laboratorio_3\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+
